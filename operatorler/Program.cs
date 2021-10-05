@@ -6,9 +6,9 @@ namespace operatorler
     {
         static void Main(string[] args)
         {
-            int x = 3; 
+            int x = 3;
             int y = 3;
-            y = y+2;
+            y = y + 2;
             Console.WriteLine(y);
             y += 2;
             Console.WriteLine(y);
@@ -19,16 +19,27 @@ namespace operatorler
 
             bool isSuccess = true;
             bool isCompleted = false;
-            
-            if (isSuccess && isCompleted) {
+
+            if (isSuccess && isCompleted)
+            {
                 Console.WriteLine("selam");
             }
-            if (isSuccess || isCompleted) {
+            if (isSuccess || isCompleted)
+            {
                 Console.WriteLine("merhaba");
             }
-            if (isSuccess || !isCompleted) {
+            if (isSuccess || !isCompleted)
+            {
                 Console.WriteLine("hmm");
             }
+
+            int a = 3;
+            int b = 4;
+            Console.WriteLine(a > b);
+
+            Console.WriteLine(a + b);
+
+            Console.WriteLine(a % b);
         }
     }
 }
