@@ -1,0 +1,16 @@
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.exe
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.deps.json
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.json
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.runtimeconfig.dev.json
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.dll
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\ref\operatorler.dll
+D:\PATIKA\C#\operatorler\bin\Debug\net5.0\operatorler.pdb
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.csproj.AssemblyReference.cache
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfoInputs.cache
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.AssemblyInfo.cs
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.dll
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\ref\operatorler.dll
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.pdb
+D:\PATIKA\C#\operatorler\obj\Debug\net5.0\operatorler.genruntimeconfig.cache
