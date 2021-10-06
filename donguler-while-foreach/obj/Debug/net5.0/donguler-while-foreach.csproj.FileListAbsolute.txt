@@ -1,0 +1,16 @@
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.exe
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.deps.json
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.json
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.runtimeconfig.dev.json
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.dll
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\ref\donguler-while-foreach.dll
+D:\PATIKA\C#\donguler-while-foreach\bin\Debug\net5.0\donguler-while-foreach.pdb
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.AssemblyReference.cache
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfoInputs.cache
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.AssemblyInfo.cs
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.dll
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\ref\donguler-while-foreach.dll
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.pdb
+D:\PATIKA\C#\donguler-while-foreach\obj\Debug\net5.0\donguler-while-foreach.genruntimeconfig.cache
