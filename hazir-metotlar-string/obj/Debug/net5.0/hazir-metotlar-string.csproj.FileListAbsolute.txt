@@ -1,0 +1,16 @@
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.exe
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.deps.json
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.runtimeconfig.json
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.runtimeconfig.dev.json
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.dll
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\ref\hazir-metotlar-string.dll
+D:\PATIKA\C#\hazir-metotlar-string\bin\Debug\net5.0\hazir-metotlar-string.pdb
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.csproj.AssemblyReference.cache
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.AssemblyInfoInputs.cache
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.AssemblyInfo.cs
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.dll
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\ref\hazir-metotlar-string.dll
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.pdb
+D:\PATIKA\C#\hazir-metotlar-string\obj\Debug\net5.0\hazir-metotlar-string.genruntimeconfig.cache
