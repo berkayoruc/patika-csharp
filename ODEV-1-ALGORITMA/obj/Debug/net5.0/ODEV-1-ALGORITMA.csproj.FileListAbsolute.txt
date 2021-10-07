@@ -1,0 +1,16 @@
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.exe
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.deps.json
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.runtimeconfig.json
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.runtimeconfig.dev.json
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.dll
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ref\ODEV-1-ALGORITMA.dll
+D:\PATIKA\C#\ODEV-1-ALGORITMA\bin\Debug\net5.0\ODEV-1-ALGORITMA.pdb
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.csproj.AssemblyReference.cache
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.AssemblyInfoInputs.cache
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.AssemblyInfo.cs
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.dll
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ref\ODEV-1-ALGORITMA.dll
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.pdb
+D:\PATIKA\C#\ODEV-1-ALGORITMA\obj\Debug\net5.0\ODEV-1-ALGORITMA.genruntimeconfig.cache
