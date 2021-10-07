@@ -1,0 +1,16 @@
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.exe
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.deps.json
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.runtimeconfig.json
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.runtimeconfig.dev.json
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.dll
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\ref\recursive-extension-metotlar.dll
+D:\PATIKA\C#\recursive-extension-metotlar\bin\Debug\net5.0\recursive-extension-metotlar.pdb
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csproj.AssemblyReference.cache
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfoInputs.cache
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.AssemblyInfo.cs
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.dll
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\ref\recursive-extension-metotlar.dll
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.pdb
+D:\PATIKA\C#\recursive-extension-metotlar\obj\Debug\net5.0\recursive-extension-metotlar.genruntimeconfig.cache
