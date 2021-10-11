@@ -1,0 +1,16 @@
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.exe
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.deps.json
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.json
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.runtimeconfig.dev.json
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.dll
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\ref\dictionary.dll
+D:\PATIKA\C#\dictionary\bin\Debug\net5.0\dictionary.pdb
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.csproj.AssemblyReference.cache
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfoInputs.cache
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.AssemblyInfo.cs
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.dll
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\ref\dictionary.dll
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.pdb
+D:\PATIKA\C#\dictionary\obj\Debug\net5.0\dictionary.genruntimeconfig.cache
