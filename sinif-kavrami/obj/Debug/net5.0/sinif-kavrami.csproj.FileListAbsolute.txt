@@ -1,0 +1,16 @@
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\ref\sinif-kavrami.dll
+D:\PATIKA\C#\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.AssemblyReference.cache
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+D:\PATIKA\C#\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
