@@ -1,0 +1,16 @@
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.exe
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.deps.json
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.json
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.runtimeconfig.dev.json
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.dll
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\ref\csharp-enum.dll
+D:\PATIKA\C#\csharp-enum\bin\Debug\net5.0\csharp-enum.pdb
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.AssemblyReference.cache
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfoInputs.cache
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.AssemblyInfo.cs
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.dll
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\ref\csharp-enum.dll
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.pdb
+D:\PATIKA\C#\csharp-enum\obj\Debug\net5.0\csharp-enum.genruntimeconfig.cache
