@@ -1,0 +1,16 @@
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.exe
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.deps.json
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.runtimeconfig.json
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.runtimeconfig.dev.json
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.dll
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\ref\static-siniflar-ve-uyeler.dll
+D:\PATIKA\C#\static-siniflar-ve-uyeler\bin\Debug\net5.0\static-siniflar-ve-uyeler.pdb
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.csproj.AssemblyReference.cache
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.AssemblyInfoInputs.cache
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.AssemblyInfo.cs
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.dll
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\ref\static-siniflar-ve-uyeler.dll
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.pdb
+D:\PATIKA\C#\static-siniflar-ve-uyeler\obj\Debug\net5.0\static-siniflar-ve-uyeler.genruntimeconfig.cache
