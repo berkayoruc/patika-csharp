@@ -1,0 +1,16 @@
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.exe
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.dll
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+D:\PATIKA\C#\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.dll
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+D:\PATIKA\C#\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
