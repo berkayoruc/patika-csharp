@@ -8,6 +8,11 @@ namespace inheritance
         {
             Console.WriteLine("Fotosentez");
         }
+        public override void Tepki()
+        {
+            base.Tepki();
+            Console.WriteLine("Tepki sd");
+        }
     }
 
     public class Tohumlu : Bitkiler
@@ -15,6 +20,7 @@ namespace inheritance
         public Tohumlu()
         {
             base.Fotosentez();
+            base.Tepki();
         }
         public void TohumluCogalma()
         {

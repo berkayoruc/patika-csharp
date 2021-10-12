@@ -4,17 +4,22 @@ namespace inheritance
 {
     public class Canlilar
     {
-        public void Beslenme()
+        protected void Beslenme()
         {
             Console.WriteLine("Beslenme");
         }
-        public void Solunum()
+        protected void Solunum()
         {
             Console.WriteLine("Solunum");
         }
-        public void Bosaltim()
+        protected void Bosaltim()
         {
             Console.WriteLine("Bosaltim");
         }
+
+        public virtual void Tepki()
+        {
+        }
+
     }
 }

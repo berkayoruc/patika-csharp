@@ -8,6 +8,12 @@ namespace inheritance
         {
             Console.WriteLine("adaptasyon");
         }
+
+        public override void Tepki()
+        {
+            base.Tepki();
+            Console.WriteLine("Tepki");
+        }
     }
 
     public class Surungen : Hayvanlar
