@@ -1,0 +1,16 @@
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.exe
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.deps.json
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.runtimeconfig.json
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.runtimeconfig.dev.json
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.dll
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\ref\proje-1.dll
+D:\PATIKA\C#\proje-1\bin\Debug\net5.0\proje-1.pdb
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.csproj.AssemblyReference.cache
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.AssemblyInfoInputs.cache
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.AssemblyInfo.cs
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.csproj.CoreCompileInputs.cache
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.dll
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\ref\proje-1.dll
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.pdb
+D:\PATIKA\C#\proje-1\obj\Debug\net5.0\proje-1.genruntimeconfig.cache
